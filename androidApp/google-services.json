@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "861283696949",
+    "firebase_url": "https://vivo-v21-pro-default-rtdb.firebaseio.com",
+    "project_id": "vivo-v21-pro",
+    "storage_bucket": "vivo-v21-pro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861283696949:android:ea8d76a03a286f6875cc7c",
+        "android_client_info": {
+          "package_name": "com.iberiasolution.dentistappointment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861283696949-vt9p9027etuv7vda8j6c4la3pi3ro3e8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaMWqg_NEH1hzC5sUAJ8cAffx7kXFp-lQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861283696949-vt9p9027etuv7vda8j6c4la3pi3ro3e8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
